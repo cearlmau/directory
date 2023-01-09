@@ -2,6 +2,8 @@
 
 Data Science
 
+- The concept of playlists: https://rpubs.com/timmyt/910419
+
 Data Structures and Algorithms
 
 Web Programming
